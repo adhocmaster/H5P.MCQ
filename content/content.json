@@ -1,0 +1,16 @@
+{
+	"greeting":"Hello world!",
+	"caption" : "This is another caption",
+	"image":
+		{
+			"path":"earth.jpg",
+			"width":300,
+			"height":300,
+			"copyright":
+				{
+					"license":"U"
+				}
+			}
+		}
+	}
+}

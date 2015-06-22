@@ -1,0 +1,14 @@
+{
+	"title":"Multiple Choice Question",
+	"language":"und",
+	"mainLibrary":"H5P.MCQ",
+	"embedTypes":["div"],
+	"preloadedDependencies":
+		[
+			{
+				"machineName":"H5P.MCQ",
+				"majorVersion":"1",
+				"minorVersion":"0"
+			}
+		]
+}

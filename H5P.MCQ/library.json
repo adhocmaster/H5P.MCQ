@@ -1,0 +1,21 @@
+{
+  "title": "Multiple Choice Question",
+  "description": "Description Multiple Choice Question",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 1,
+  "author": "Adhocmaster",
+  "license": "MIT",
+  "machineName": "H5P.GreetingCard",
+  "preloadedJs": [
+    {
+      "path": "greetingcard.js"
+    }
+  ],
+  "preloadedCss": [
+    {
+      "path": "greetingcard.css"
+    }
+  ]
+}
